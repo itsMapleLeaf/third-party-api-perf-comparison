@@ -1,0 +1,1 @@
+A comparison of a Remix app vs. a CSR app with Vite for fetching data from a third party API. The Remix app uses the experimental deferred API on the backend, and the CSR app fetches data from the browser.
