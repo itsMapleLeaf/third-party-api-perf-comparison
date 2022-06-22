@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "sideEffects": false,
+  "scripts": {
+    "build": "remix build",
+    "dev": "remix dev"
+  },
+  "dependencies": {
+    "@remix-run/node": "0.0.0-experimental-9784dd06",
+    "@remix-run/react": "0.0.0-experimental-9784dd06",
+    "@remix-run/vercel": "0.0.0-experimental-9784dd06",
+    "@vercel/node": "^2.2.0",
+    "isbot": "^3.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@remix-run/dev": "0.0.0-experimental-9784dd06",
+    "@remix-run/eslint-config": "0.0.0-experimental-9784dd06",
+    "@remix-run/serve": "0.0.0-experimental-9784dd06",
+    "@types/react": "^18.0.14",
+    "@types/react-dom": "^18.0.5",
+    "eslint": "^8.18.0",
+    "typescript": "^4.7.4"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
